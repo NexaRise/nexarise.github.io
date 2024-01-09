@@ -137,7 +137,7 @@ html {
 }
 
 body {
-  background-color: var(--white-1);
+  background-color: red;
   color: var(--gray-web);
   font-size: 1.6rem;
   line-height: 1.8;
